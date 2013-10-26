@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vss123@gmail.com"]
   spec.description   = %q{Gem that helps rails project to route to different controller actions based on commit param of the form}
   spec.summary       = %q{Gem that helps rails project to route to different controller actions based on commit param of the form}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/siliconsenthil/commit_param_routing"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
